@@ -1,0 +1,2 @@
+Provides smart constructors for WAI responses using Hastache for
+rendering mustache templates.
